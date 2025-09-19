@@ -38,11 +38,13 @@
             <li class="nav-item px-2"><a class="nav-link" href="#findUs">Find Us</a></li>
             <li class="nav-item px-2"><a class="nav-link" href="#clients">Clients Reviews</a></li>
             <li class="nav-item px-2"><a class="nav-link" href="#contactus">Contact Us</a></li>
-            <li class="nav-item px-2"><a class="nav-link" aria-current="page"href="https://www.dtdc.in/trace.asp" target="_blank">Track Order</a></li>
+            <li class="nav-item px-2"><a class="nav-link" aria-current="page" href="https://www.dtdc.in/trace.asp"
+                target="_blank">Track Order</a></li>
           </ul>
           <a class="btn btn-primary order-1 order-lg-0 ms-lg-3" href="tel:+918447249855" target="_blank"><i
               class="fas fa-phone-alt fa-1x text-light"></i> +918447249855</a>
-          <a class="btn btn-primary order-1 order-lg-0 ms-lg-3"  href="https://wa.me/918447410855?text=Hello%20I%20want%20to%20send%20a%20courier" target="_blank"><i
+          <a class="btn btn-primary order-1 order-lg-0 ms-lg-3"
+            href="https://wa.me/918447410855?text=Hello%20I%20want%20to%20send%20a%20courier" target="_blank"><i
               class="fab fa-whatsapp text-light"></i></a>
           <form class="d-flex my-3 d-block d-lg-none">
             <input class="form-control me-2 border-200 bg-light" type="search" placeholder="Search"
@@ -271,12 +273,12 @@
         </div>
         <div class="col-md-8 col-lg-5 text-center mx-auto">
           <span class="fw-medium fs-2 text-dark">4.9</span>
-            <i class="fas fa-star fa-lg text-primary me-1"></i>
-            <i class="fas fa-star fa-lg text-primary me-1"></i>
-            <i class="fas fa-star fa-lg text-primary me-1"></i>
-            <i class="fas fa-star fa-lg text-primary me-1"></i>
-            <i class="fas fa-star-half-alt fa-lg text-primary me-1"></i>
-            <span class="fw-medium fs-2 text-dark"> 33 reviews from Google</span>
+          <i class="fas fa-star fa-lg text-primary me-1"></i>
+          <i class="fas fa-star fa-lg text-primary me-1"></i>
+          <i class="fas fa-star fa-lg text-primary me-1"></i>
+          <i class="fas fa-star fa-lg text-primary me-1"></i>
+          <i class="fas fa-star-half-alt fa-lg text-primary me-1"></i>
+          <span class="fw-medium fs-2 text-dark"> 33 reviews from Google</span>
         </div>
         <div class="carousel slide pt-6" id="carouselExampleDark" data-bs-ride="carousel">
           <div class="carousel-inner">
@@ -707,22 +709,59 @@
       <!-- end of .container-->
 
     </section>
-      <div class="d-block d-md-none fixed-bottom bg-primary text-white">
-  <div class="d-flex justify-content-around align-items-center py-2">
-    
-    <!-- Call Button -->
-    <a href="tel:+918447410855" class="text-white text-decoration-none text-center">
-      <i class="fas fa-phone-alt fa-lg"></i> Call Now
-    </a>
-    
-    <!-- Email Button -->
-    <a href="mailto: khushbu.enterprise.dtdc@gmail.com" class="text-white text-decoration-none text-center">
-      <i class="fas fa-envelope fa-lg"></i> Email Now
-    </a>
-    
-  </div>
-</div>
+    <div class="d-block d-md-none fixed-bottom bg-primary text-white">
+      <div class="d-flex justify-content-around align-items-center py-2">
+
+        <!-- Call Button -->
+        <a href="tel:+918447410855" class="text-white text-decoration-none text-center">
+          <i class="fas fa-phone-alt fa-lg"></i> Call Now
+        </a>
+
+        <!-- Email Button -->
+        <a href="mailto: khushbu.enterprise.dtdc@gmail.com" class="text-white text-decoration-none text-center">
+          <i class="fas fa-envelope fa-lg"></i> Email Now
+        </a>
+
+      </div>
+    </div>
+    <div class="enquiryBtn">
+      <a href="https://api.whatsapp.com/send?phone=98447410855" target="_blank"><i class="fab fa-whatsapp"></i></a>
+      <!-- <a href="javascript:;" data-toggle="modal" data-target="#enquiryModal"><i class="fa fa-envelope"></i></a> -->
+    </div>
   </main>
+  <style>
+    .enquiryBtn {
+      position: fixed;
+      right: 20px;
+      bottom: 20px;
+      z-index: 99;
+    }
+
+    .enquiryBtn a {
+      display: block;
+      width: 40px;
+      height: 40px;
+      line-height: 40px;
+      border-radius: 50%;
+      font-size: 15px;
+      margin-bottom: 30px;
+      text-align: center;
+      background: #faf7f2;
+      color: var(--primary-color);
+      box-shadow: 0 0 0 8px rgba(61, 251, 105, 0.45), 0 0 0 15px rgba(33, 164, 40, 0.63), 1rem 1rem 2rem rgb(0 0 0 / 25%);
+      animation: enq 2s cubic-bezier(0.55, 0.76, 0.27, 1.29) infinite;
+      position: relative;
+      z-index: 1;
+    }
+
+    .enquiryBtn a i.fa-whatsapp {
+      color: var(--whatsapp);
+    }
+
+    .enquiryBtn a i {
+      margin-right: 0;
+    }
+  </style>
   <script src="vendors/@popperjs/popper.min.js"></script>
   <script src="vendors/bootstrap/bootstrap.min.js"></script>
   <script src="vendors/is/is.min.js"></script>
