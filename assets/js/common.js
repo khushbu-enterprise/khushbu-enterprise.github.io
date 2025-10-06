@@ -32,4 +32,44 @@ var pagelinks = [
       });
     }
 
+
+
+
+
+  const webAppUrl = 'https://script.google.com/macros/s/AKfycbxtDeRg4XHtJtrQh5TZIp3BP3W7iGNk7blG33ttTg8FzecxgaSr9gzSzKkzCcspGwFCSg/exec'; // Replace with your Web App URL
+
+// Subscribe Form Submit
+document.getElementById('gform').addEventListener('submit', e => {
+  e.preventDefault();
+  const data = Object.fromEntries(new FormData(e.target));
+  data.formType = "subscribe";
+
+  fetch(webAppUrl, {
+    method: 'POST',
+    mode: 'no-cors',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data)
+  }).then(() => {
+    document.getElementById('response').innerText = "✅ Subscribed successfully!";
+    e.target.reset();
+  }).catch(err => console.error(err));
+});
+
+// Contact Form Submit
+document.getElementById('contactForm').addEventListener('submit', e => {
+  e.preventDefault();
+  const data = Object.fromEntries(new FormData(e.target));
+  data.formType = "contact";
+
+  fetch(webAppUrl, {
+    method: 'POST',
+    mode: 'no-cors',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data)
+  }).then(() => {
+    document.getElementById('response').innerText = "✅ Message sent successfully!";
+    e.target.reset();
+  }).catch(err => console.error(err));
+});
+
     // Usage: by ID
