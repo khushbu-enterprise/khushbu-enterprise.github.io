@@ -36,10 +36,16 @@
      <changefreq>monthly</changefreq>
      <priority>0.6</priority>
    </url>
-      <url>
-     <loc>https://khushbu-enterprise.github.io/how-to-send-parcel-dtdc.html</loc>
-     <lastmod>2025-10-08</lastmod>
-     <changefreq>monthly</changefreq>
-     <priority>0.6</priority>
-   </url>
- </urlset>
+       <url>
+      <loc>https://khushbu-enterprise.github.io/how-to-send-parcel-dtdc.html</loc>
+      <lastmod>2025-10-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+    <url>
+      <loc>https://khushbu-enterprise.github.io/courier-service-kavi-nagar.html</loc>
+      <lastmod>2025-10-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  </urlset>
