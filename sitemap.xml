@@ -48,10 +48,16 @@
        <changefreq>monthly</changefreq>
        <priority>0.6</priority>
      </url>
-     <url>
-       <loc>https://khushbu-enterprise.github.io/blog-courier-near-me.html</loc>
-       <lastmod>2025-10-25</lastmod>
-       <changefreq>monthly</changefreq>
-       <priority>0.6</priority>
-     </url>
-   </urlset>
+      <url>
+        <loc>https://khushbu-enterprise.github.io/blog-courier-near-me.html</loc>
+        <lastmod>2025-10-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+      </url>
+      <url>
+        <loc>https://khushbu-enterprise.github.io/free-courier-pickup-ghaziabad.html</loc>
+        <lastmod>2025-10-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+      </url>
+    </urlset>

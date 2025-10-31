@@ -1,6 +1,7 @@
 // Our links array
     var other = [
       { name: 'Blogs', link: 'blogs.html' },
+      { name: 'Sitemap', link: 'sitemap.html' },
     ];
 
 var pagelinks = [
