@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: 
 
 Sitemap: https://khushbu-enterprise.github.io/sitemap.xml

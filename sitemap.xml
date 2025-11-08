@@ -1,63 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://khushbu-enterprise.github.io/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://khushbu-enterprise.github.io/about.html</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://khushbu-enterprise.github.io/blogs.html</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://khushbu-enterprise.github.io/thank-you.html</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.4</priority>
-   </url>
-     <url>
-     <loc>https://khushbu-enterprise.github.io/fast-relaible-local-services.html</loc>
-     <lastmod>2025-10-06</lastmod>
-     <changefreq>yearly</changefreq>
-     <priority>0.4</priority>
-   </url>
-   <url>
-     <loc>https://khushbu-enterprise.github.io/blog-dtdc-kavi-nagar.html</loc>
-     <lastmod>2025-10-07</lastmod>
-     <changefreq>monthly</changefreq>
-     <priority>0.6</priority>
-   </url>
-       <url>
-      <loc>https://khushbu-enterprise.github.io/how-to-send-parcel-dtdc.html</loc>
-      <lastmod>2025-10-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-     <url>
-       <loc>https://khushbu-enterprise.github.io/courier-service-kavi-nagar.html</loc>
-       <lastmod>2025-10-11</lastmod>
-       <changefreq>monthly</changefreq>
-       <priority>0.6</priority>
-     </url>
-      <url>
-        <loc>https://khushbu-enterprise.github.io/blog-courier-near-me.html</loc>
-        <lastmod>2025-10-25</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-      </url>
-      <url>
-        <loc>https://khushbu-enterprise.github.io/free-courier-pickup-ghaziabad.html</loc>
-        <lastmod>2025-10-31</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-      </url>
-    </urlset>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://khushbu-enterprise.github.io/</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://khushbu-enterprise.github.io/about.html</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://khushbu-enterprise.github.io/blogs.html</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://khushbu-enterprise.github.io/sitemap.html</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://khushbu-enterprise.github.io/index.html</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://khushbu-enterprise.github.io/free-courier-pickup-ghaziabad.html</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://khushbu-enterprise.github.io/best-courier-service-in-kavi-nagar-ghaziabad.html</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://khushbu-enterprise.github.io/blog-courier-near-me.html</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://khushbu-enterprise.github.io/courier-service-kavi-nagar.html</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://khushbu-enterprise.github.io/how-to-send-parcel-dtdc.html</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://khushbu-enterprise.github.io/blog-dtdc-kavi-nagar.html</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://khushbu-enterprise.github.io/fast-relaible-local-services.html</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://khushbu-enterprise.github.io/thank-you.html</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://khushbu-enterprise.github.io/robots.txt</loc>
+  <lastmod>2025-11-07T02:32:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
