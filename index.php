@@ -26,20 +26,20 @@
   <link rel="manifest" href="assets/img/favicons/manifest.json">
   <meta name="msapplication-TileImage" content="assets/img/dtdc-logo.png">
    <meta name="theme-color" content="#ffffff">
-   <link rel="canonical" href="https://khushbu-enterprise.github.io/">
+   <link rel="canonical" href="https://khushbuenterprises.in/">
    <meta name="robots" content="index, follow"/>
    <!-- Open Graph / Facebook -->
    <meta property="og:type" content="website">
-   <meta property="og:url" content="https://khushbu-enterprise.github.io/">
+   <meta property="og:url" content="https://khushbuenterprises.in/">
    <meta property="og:title" content="DTDC Courier Ghaziabad | Free Pickup | Domestic & International | Courier service in kavi nagar">
    <meta property="og:description" content="DTDC Courier Franchise in Kavinagar D-Block, Ghaziabad. Free pickup service for parcels, fast domestic & international courier, reliable & secure.">
-   <meta property="og:image" content="https://khushbu-enterprise.github.io/assets/img/dtdc-logo.png">
+   <meta property="og:image" content="https://khushbuenterprises.in/assets/img/dtdc-logo.png">
    <!-- Twitter -->
    <meta property="twitter:card" content="summary_large_image">
-   <meta property="twitter:url" content="https://khushbu-enterprise.github.io/">
+   <meta property="twitter:url" content="https://khushbuenterprises.in/">
    <meta property="twitter:title" content="DTDC Courier Ghaziabad | Free Pickup | Domestic & International | Courier service in kavi nagar">
    <meta property="twitter:description" content="DTDC Courier Franchise in Kavinagar D-Block, Ghaziabad. Free pickup service for parcels, fast domestic & international courier, reliable & secure.">
-   <meta property="twitter:image" content="https://khushbu-enterprise.github.io/assets/img/dtdc-logo.png">
+   <meta property="twitter:image" content="https://khushbuenterprises.in/assets/img/dtdc-logo.png">
    <link href="assets/css/theme.css" rel="stylesheet" />
   <link href="assets/css/styles.css" rel="stylesheet" />
 
@@ -61,7 +61,7 @@
      "@context": "https://schema.org",
      "@type": "LocalBusiness",
      "name": "Khushbu Enterprises - DTDC Courier",
-     "image": "https://khushbu-enterprise.github.io/assets/img/dtdc-logo.png",
+     "image": "https://khushbuenterprises.in/assets/img/dtdc-logo.png",
      "description": "DTDC Courier Franchise in Kavinagar D-Block, Ghaziabad. Free pickup service for parcels, fast domestic & international courier, reliable & secure.",
      "address": {
        "@type": "PostalAddress",
@@ -73,7 +73,7 @@
      },
      "telephone": "+91-8447410855",
      "email": "khushbu.enterprise.dtdc@gmail.com",
-     "url": "https://khushbu-enterprise.github.io/",
+     "url": "https://khushbuenterprises.in/",
      "openingHours": "Mo-Sa 09:00-20:30",
      "aggregateRating": {
        "@type": "AggregateRating",
@@ -90,7 +90,7 @@
   <main class="main" id="top">
     <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 d-block"
       data-navbar-on-scroll="data-navbar-on-scroll">
-      <div class="container"><a class="navbar-brand" href="https://khushbu-enterprise.github.io/"><img
+      <div class="container"><a class="navbar-brand" href="https://khushbuenterprises.in/"><img
             src="assets/img/dtdc-logo.png" height="45" alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
             title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" /></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
@@ -759,7 +759,7 @@
                 <path
                   d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z">
                 </path>
-              </svg>&nbsp;by&nbsp;<a class="fw-bold text-primary" href="https://khushbu-enterprise.github.io"
+              </svg>&nbsp;by&nbsp;<a class="fw-bold text-primary" href="https://khushbuenterprises.in"
                 target="_blank">Khushbu Enterprises </a>
             </p>
           </div>

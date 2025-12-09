@@ -5,11 +5,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Free Courier Pickup Ghaziabad - DTDC Courier Service in Kavi Nagar</title>
+    <title>How to Send a Parcel via DTDC in Kavi Nagar, Ghaziabad - Khushbu Enterprises</title>
     <meta name="description"
-        content="Get free courier pickup in Ghaziabad with DTDC services. Fast, reliable, and affordable parcel delivery with doorstep pickup. Contact Khushbu Enterprises today.">
+        content="Learn how to send parcels easily with DTDC Courier in Kavi Nagar, Ghaziabad. Step-by-step guide for packing, pickup, tracking, and delivery options.">
     <meta name="keywords"
-        content="free courier pickup Ghaziabad, DTDC courier Ghaziabad free pickup, courier service Kavinagar, free parcel pickup Ghaziabad, international courier with pickup Ghaziabad">
+        content="how to send parcel DTDC, DTDC courier Ghaziabad, parcel shipping guide Kavi Nagar, send courier Ghaziabad, DTDC tracking, Khushbu Enterprises">
     <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/delivery-truck.png">
     <link rel="icon" type="image/png" sizes="64x64" href="assets/img/favicons/delivery-truck.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/delivery-truck-32.png">
@@ -17,26 +17,29 @@
     <link rel="manifest" href="assets/img/favicons/manifest.json">
     <meta name="msapplication-TileImage" content="assets/img/dtdc-logo.png">
     <meta name="theme-color" content="#ffffff">
+    <meta name="robots" content="index, follow">
     <link href="assets/css/theme.css" rel="stylesheet" />
     <link href="assets/css/styles.css" rel="stylesheet" />
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://khushbu-enterprise.github.io/free-courier-pickup-ghaziabad.html" />
+     <link rel="canonical" href="https://khushbuenterprises.in/how-to-send-parcel-dtdc.php" />
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Free Courier Pickup Ghaziabad - DTDC Courier Service in Kavi Nagar" />
+    <meta property="og:title"
+        content="How to Send a Parcel via DTDC in Kavi Nagar, Ghaziabad - Khushbu Enterprises" />
     <meta property="og:description"
-        content="Get free courier pickup in Ghaziabad with DTDC services. Fast, reliable, and affordable parcel delivery with doorstep pickup. Contact Khushbu Enterprises today." />
-    <meta property="og:url" content="https://khushbu-enterprise.github.io/free-courier-pickup-ghaziabad.html" />
-    <meta property="og:type" content="article" />
-    <meta property="og:image" content="https://khushbu-enterprise.github.io/assets/img/cheerful-client-courier-with-clipboard.webp" />
+        content="Learn how to send parcels easily with DTDC Courier in Kavi Nagar, Ghaziabad. Step-by-step guide for packing, pickup, tracking, and delivery options." />
+     <meta property="og:url" content="https://khushbuenterprises.in/how-to-send-parcel-dtdc.php" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://khushbuenterprises.in/assets/img/blog-2.webp" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Free Courier Pickup Ghaziabad - DTDC Courier Service in Kavi Nagar" />
+    <meta name="twitter:title"
+        content="How to Send a Parcel via DTDC in Kavi Nagar, Ghaziabad - Khushbu Enterprises" />
     <meta name="twitter:description"
-        content="Get free courier pickup in Ghaziabad with DTDC services. Fast, reliable, and affordable parcel delivery with doorstep pickup. Contact Khushbu Enterprises today." />
-    <meta name="twitter:image" content="https://khushbu-enterprise.github.io/assets/img/cheerful-client-courier-with-clipboard.webp" />
+        content="Learn how to send parcels easily with DTDC Courier in Kavi Nagar, Ghaziabad. Step-by-step guide for packing, pickup, tracking, and delivery options." />
+    <meta name="twitter:image" content="https://khushbuenterprises.in/assets/img/blog-2.webp" />
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-NXXEKLG15M"></script>
@@ -54,28 +57,72 @@
     <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Free Courier Pickup Services in Ghaziabad",
-    "author": {
-      "@type": "Organization",
-      "name": "Khushbu Enterprises"
-    },
-    "publisher": {
+    "@type": "HowTo",
+    "name": "How to Send a Parcel via DTDC in Kavi Nagar, Ghaziabad",
+    "description": "Step-by-step guide to sending parcels with DTDC Courier in Kavi Nagar, Ghaziabad. Learn packing, pickup, tracking, and delivery options.",
+    "image": "https://khushbuenterprises.in/assets/img/blog-2.webp",
+    "totalTime": "PT10M",
+    "supply": [
+      {
+        "@type": "HowToSupply",
+        "name": "Strong box or envelope"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Tape and cushioning material"
+      }
+    ],
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Pack Your Parcel Properly",
+        "text": "Pack your parcel securely in a strong box or envelope. Use tape to seal it and cushioning for fragile items. Write sender and receiver addresses clearly.",
+        "image": "https://khushbuenterprises.in/assets/img/blog-2.webp"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Visit DTDC Branch or Request Pickup",
+        "text": "Go to the DTDC branch in Kavi Nagar or call for doorstep pickup. Provide parcel details for the right service.",
+        "image": "https://khushbuenterprises.in/assets/img/blog-2.webp"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Fill Out the Shipment Form",
+        "text": "Provide sender, receiver, and parcel details. Get an AWB number for tracking.",
+        "image": "https://khushbuenterprises.in/assets/img/blog-2.webp"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Choose Delivery Type",
+        "text": "Select Express, Economy, or International shipping based on your needs.",
+        "image": "https://khushbuenterprises.in/assets/img/blog-2.webp"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Make Payment",
+        "text": "Pay for the service via cash, UPI, or card and receive a receipt with AWB number.",
+        "image": "https://khushbuenterprises.in/assets/img/blog-2.webp"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Track Your Parcel",
+        "text": "Use the AWB number on DTDC tracking page to monitor delivery.",
+        "image": "https://khushbuenterprises.in/assets/img/blog-2.webp"
+      }
+    ],
+    "provider": {
       "@type": "Organization",
       "name": "Khushbu Enterprises",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://khushbu-enterprise.github.io/assets/img/dtdc-logo.png"
-      }
-    },
-    "datePublished": "2025-10-31",
-    "dateModified": "2025-10-31",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://khushbu-enterprise.github.io/free-courier-pickup-ghaziabad.html"
-    },
-    "image": "https://khushbu-enterprise.github.io/assets/img/cheerful-client-courier-with-clipboard.webp",
-    "description": "Get free courier pickup in Ghaziabad with DTDC services. Fast, reliable, and affordable parcel delivery with doorstep pickup. Contact Khushbu Enterprises today."
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shop No. 1, Near Nagar Nigam Office, Opp. Old Kacheri, Block D, Sector 18, Kavi Nagar",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "201002",
+        "addressCountry": "IN"
+      },
+      "telephone": "+91 8447249855"
+    }
   }
   </script>
 </head>
@@ -85,7 +132,7 @@
     <main class="main" id="top">
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 d-block"
             data-navbar-on-scroll="data-navbar-on-scroll">
-            <div class="container"><a class="navbar-brand" href="https://khushbu-enterprise.github.io/"><img
+            <div class="container"><a class="navbar-brand" href="https://khushbuenterprises.in/"><img
                         src="assets/img/dtdc-logo.png" height="45"
                         alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                         title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" /></a>
@@ -116,87 +163,95 @@
             </div>
         </nav>
         <section class="py-xxl-10 pb-0" id="home">
-            <div class="container"></div>
             <div class="bg-holder bg-size"
                 style="background-image:url(assets/img/gallery/hero-header-bg.webp);background-position:top center;background-size:cover;">
             </div>
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-md-5 col-xl-6 col-xxl-7 order-0 order-md-1 text-end"><img
-                            class="pt-7 pt-md-0 w-100  rounded-2" src="assets/img/cheerful-client-courier-with-clipboard.webp"
-                            alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
+                    <div class="col-md-5 col-xl-6 col-xxl-7 order-0 order-md-1 text-end"><img class="pt-7 pt-md-0 w-100  rounded-2"
+                            src="assets/img/blog-2.webp" alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                             title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" /></div>
                     <div class="col-md-75 col-xl-6 col-xxl-5 text-md-start text-center py-8">
-                        <h1 class="fw-normal fs-6 fs-xxl-7">Free Courier Pickup in Ghaziabad</h1>
-                        <p class="fs-1 mb-5">Convenient Doorstep Pickup Service for All Your Shipping Needs</p><a
-                            class="btn btn-primary me-2" href="blogs.html" role="button">Get started<i
-                                class="fas fa-arrow-right ms-2"></i></a>
+                        <h1 class="fw-normal fs-6 fs-xxl-7">How to Send a Parcel via DTDC <br> in Kavi Nagar, Ghaziabad</h1>
+                        <p class="fs-1 mb-5">We deliver your products safely to <br />Delivering trust and speed to
+                            every doorstep </p><a class="btn btn-primary me-2" href="blogs.html" role="button">Get
+                            started<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
-            </div>
         </section>
         <section>
-<div class="container">
-      <p>Looking for <strong>free courier pickup in Ghaziabad</strong>? Whether you want to send documents, parcels, or packages locally or across India, <strong>DTDC Kavi Nagar (Khushbu Enterprises)</strong> offers convenient doorstep pickup services at no extra cost. We ensure your shipments are collected safely and delivered quickly.</p>
+            <div class="container mt-5 mb-5">
+                <p>Need to send a courier urgently? Don’t worry — sending your parcel through <strong>DTDC
+                        Courier</strong> is quick, secure, and easy. Whether it’s a document, gift, or online order,
+                    <strong>DTDC Kavi Nagar, Ghaziabad</strong> makes the process smooth from start to finish.</p>
 
-      <h2>Why Choose Free Courier Pickup in Ghaziabad?</h2>
-      <p>As a trusted <strong>DTDC courier partner in Kavi Nagar, Ghaziabad</strong>, we provide hassle-free pickup services that save you time and effort. Our professional team arrives at your doorstep to collect your packages, eliminating the need for you to visit our office.</p>
-      <ul>
-        <li>🚚 <strong>Free Doorstep Pickup:</strong> No charges for collection from your home or office in Ghaziabad.</li>
-        <li>⚡ <strong>Fast & Reliable Service:</strong> Quick pickup and delivery within city, state, or nationwide.</li>
-        <li>📦 <strong>All Types of Shipments:</strong> Documents, parcels, e-commerce items, and international packages.</li>
-        <li>📱 <strong>Easy Booking:</strong> Call or WhatsApp us for instant pickup scheduling.</li>
-        <li>💰 <strong>Affordable Rates:</strong> Competitive pricing with free pickup included.</li>
-      </ul>
+                <h2>Step 1: Pack Your Parcel Properly</h2>
+                <p>Start by packing your parcel securely. Use a strong box or envelope and seal it properly with tape.
+                    For fragile items, use bubble wrap or cushioning material. Clearly write both the <strong>sender’s
+                        and receiver’s address</strong> on the package.</p>
 
-      <h2>Our Free Courier Pickup Services</h2>
-      <p>We handle all types of courier services with complimentary doorstep pickup:</p>
-      <ul>
-        <li><strong>Domestic Courier</strong> – Same-day or next-day delivery across India.</li>
-        <li><strong>International Courier</strong> – Global shipping with customs clearance.</li>
-        <li><strong>Document Delivery</strong> – Secure handling for important papers and certificates.</li>
-        <li><strong>E-commerce Shipping</strong> – Reliable delivery for online sellers.</li>
-        <li><strong>Express Services</strong> – Urgent deliveries with priority pickup.</li>
-      </ul>
+                <div class="tip-box">
+                    💡 <strong>Pro Tip:</strong> Mention your mobile number on the parcel for easy contact during
+                    delivery.
+                </div>
 
-      <div class="highlight-box">
-        💡 <strong>Pro Tip:</strong> For heavy or bulky items, our team provides packing assistance during pickup to ensure safe transportation.
-      </div>
+                <h2>Step 2: Visit DTDC Kavi Nagar Branch or Request Pickup</h2>
+                <p>You can either visit our office located at <strong>Shop No. 1, near Nagar Nigam Office, Opp. Old
+                        Kacheri, Block D, Sector 18, Kavi Nagar, Ghaziabad</strong> or call us for doorstep pickup. Our
+                    staff will help you choose the right courier plan based on your parcel type, weight, and
+                    destination.</p>
 
-      <h2>How to Book Free Courier Pickup</h2>
-      <ol>
-        <li>Contact us via phone or WhatsApp with your pickup details.</li>
-        <li>Prepare your package with proper labeling and packaging.</li>
-        <li>Our courier will arrive at your scheduled time for collection.</li>
-        <li>Receive your AWB number for tracking your shipment.</li>
-        <li>Track your package in real-time on the DTDC website.</li>
-      </ol>
+                <h2>Step 3: Fill Out the Shipment Form</h2>
+                <p>Provide details like sender and receiver information, destination pin code, and parcel type. Our team
+                    will generate an <strong>AWB (Air Waybill) number</strong> — this is your tracking ID to monitor
+                    delivery progress online.</p>
 
-      <h2>Areas We Cover for Free Pickup in Ghaziabad</h2>
-      <p>Our free courier pickup service covers all areas of Ghaziabad including:</p>
-      <ul>
-        <li>Kavi Nagar</li>
-        <li>Shastri Nagar</li>
-        <li>Vasundhara</li>
-        <li>RDC</li>
-        <li>Raj Nagar Extension</li>
-        <li>Crossing Republic</li>
-        <li>And all other localities in Ghaziabad</li>
-      </ul>
+                <h2>Step 4: Choose Your Delivery Type</h2>
+                <ul>
+                    <li><strong>Express Delivery</strong> – Fastest delivery option for urgent parcels.</li>
+                    <li><strong>Economy Service</strong> – Affordable choice for non-urgent shipments.</li>
+                    <li><strong>International Shipping</strong> – Send parcels abroad safely and quickly.</li>
+                </ul>
 
-      <h2>Contact Information</h2>
-      <div class="highlight-box">
-        <h5>📍 Khushbu Enterprises – DTDC Courier Franchise</h5>
-        <p>Shop No. 1, Near Nagar Nigam Office, Opp. Old Kacheri, Block D, Sector 18,<br>
-        Kavi Nagar, Ghaziabad, Uttar Pradesh 201002</p>
-        <a class="text-dark  text-1000" href="tel:+918447249855">+91 8447249855</a><br>
-                    <strong><i class="fas fa-globe text-warning"></i> Google Profile:</strong> <a  class="text-dark text-1000"  href="https://share.google/dDbBctEeXEbgjzsyY" target="_blank">View on Google</a>
-      </div>
+                <h2>Step 5: Make Payment & Get Receipt</h2>
+                <p>Once the parcel is weighed and details are confirmed, make the payment. We accept cash, UPI, or card.
+                    You’ll receive a booking receipt containing the <strong>AWB number</strong>.</p>
 
-      <h2>Why Choose DTDC for Free Courier Pickup?</h2>
-      <p>When it comes to <strong>courier services with free pickup in Ghaziabad</strong>, DTDC stands out for its reliability and customer-centric approach. As your local DTDC partner, we combine the strength of India's leading courier network with personalized local service. Experience the convenience of free doorstep pickup and fast delivery with Khushbu Enterprises today.</p>
-</div>
+                <h2>Step 6: Track Your Parcel</h2>
+                <p>After dispatch, you can track your shipment anytime on the <a href="https://www.dtdc.in/tracking.asp"
+                        target="_blank">DTDC Tracking Page</a> using your AWB number. You’ll see real-time updates until
+                    the delivery is completed.</p>
+
+                <div class="tip-box">
+                    📦 <strong>Tip:</strong> For business users, DTDC also offers regular pickup scheduling and bulk
+                    shipment options.
+                </div>
+
+                <h2>Why Choose DTDC Courier Kavi Nagar?</h2>
+                <ul>
+                    <li>✅ Safe, fast, and reliable parcel handling</li>
+                    <li>✅ Local pickup and delivery in Ghaziabad</li>
+                    <li>✅ Experienced and friendly staff</li>
+                    <li>✅ Online tracking and easy support</li>
+                </ul>
+
+                <h2>Send Your Parcel Today!</h2>
+                <p>Now that you know how simple it is, send your parcel today with <strong>DTDC Kavi Nagar,
+                        Ghaziabad</strong>. Whether for business or personal use, we ensure your shipment is delivered
+                    safely and on time — every time.</p>
+
+                <div class="tip-box">
+                    <h5>📍 Contact Us</h5>
+                    <p><strong>Khushbu Enterprises – DTDC Courier Franchise</strong><br>
+                        Shop No. 1, Near Nagar Nigam Office, Opp. Old Kacheri, Block D, Sector 18, Kavi Nagar,
+                        Ghaziabad, Uttar Pradesh 201002<br>
+                        <strong>📞 Call / WhatsApp:</strong> <a href="tel:+918447249855">+91 84472 49855</a><br>
+                        <strong>🌐 Google Profile:</strong> <a href="YOUR_GOOGLE_BUSINESS_LINK" target="_blank">View on
+                            Google</a>
+                    </p>
+                </div>
+            </div>
         </section>
         <section class="bg-900 pb-0 pt-5">
 
@@ -249,7 +304,7 @@
                                     d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z">
                                 </path>
                             </svg>&nbsp;by&nbsp;<a class="fw-bold text-primary"
-                                href="https://khushbu-enterprise.github.io" target="_blank">Khushbu Enterprises
+                                href="https://khushbuenterprises.in" target="_blank">Khushbu Enterprises
                             </a>
                         </p>
                     </div>
