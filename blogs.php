@@ -46,10 +46,10 @@
             class="navbar-toggler-icon"> </span></button>
         <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto pt-2 pt-lg-0 font-base">
-            <li class="nav-item px-2"><a class="nav-link" href="index.html#services">Our Services</a></li>
-            <li class="nav-item px-2"><a class="nav-link" href="index.html#findUs">Find Us</a></li>
-            <li class="nav-item px-2"><a class="nav-link" href="index.html#clients">Clients Reviews</a></li>
-            <li class="nav-item px-2"><a class="nav-link" href="index.html#contactus">Contact Us</a></li>
+            <li class="nav-item px-2"><a class="nav-link" href="index.php#services">Our Services</a></li>
+            <li class="nav-item px-2"><a class="nav-link" href="index.php#findUs">Find Us</a></li>
+            <li class="nav-item px-2"><a class="nav-link" href="index.php#clients">Clients Reviews</a></li>
+            <li class="nav-item px-2"><a class="nav-link" href="index.php#contactus">Contact Us</a></li>
             <li class="nav-item px-2"><a class="nav-link" aria-current="page" href="https://www.dtdc.com/track-your-shipment/"
                 target="_blank">Track Order</a></li>
           </ul>
@@ -79,7 +79,7 @@
             <h1 class="fw-normal fs-6 fs-xxl-7">A trusted provider of </h1>
             <h1 class="fw-bolder fs-6 fs-xxl-7 mb-2">courier services.</h1>
             <p class="fs-1 mb-5">We deliver your products safely to <br />your home in a reasonable time. </p><a
-              class="btn btn-primary me-2" href="about.html" role="button">Get started<i
+              class="btn btn-primary me-2" href="about.php" role="button">Get started<i
                 class="fas fa-arrow-right ms-2"></i></a>
           </div>
         </div>
@@ -96,7 +96,7 @@
              <h2>Free Courier Pickup Ghaziabad</h2>
              <small class="text-muted">Published on October 31, 2025</small>
              <p>Get <strong>free courier pickup in Ghaziabad</strong> with DTDC services. Convenient doorstep collection for all your shipping needs. Fast, reliable, and affordable parcel delivery with no pickup charges. Contact Khushbu Enterprises today.</p>
-             <a href="free-courier-pickup-ghaziabad.html" class="btn btn-primary btn-sm">Read More</a>
+             <a href="free-courier-pickup-ghaziabad.php" class="btn btn-primary btn-sm">Read More</a>
            </div>
           </article>
           <article class="blog-post row mb-2 shadow-lg p-3 mb-3 bg-white rounded">
@@ -108,7 +108,7 @@
              <h2>Best Courier Service in Kavi Nagar, Ghaziabad</h2>
              <small class="text-muted">Published on October 15, 2025</small>
              <p>If you're searching for a <strong>reliable courier service in Kavi Nagar, Ghaziabad</strong>, your search ends here! <strong>Khushbu Enterprises – DTDC Courier Partner</strong> provides fast, safe, and affordable delivery solutions for individuals and businesses.</p>
-             <a href="best-courier-service-in-kavi-nagar-ghaziabad.html" class="btn btn-primary btn-sm">Read More</a>
+             <a href="best-courier-service-in-kavi-nagar-ghaziabad.php" class="btn btn-primary btn-sm">Read More</a>
            </div>
           </article>
           <article class="blog-post row mb-2 shadow-lg p-3 mb-3 bg-white rounded">
@@ -120,7 +120,7 @@
               <h2>Courier Near Me - Find Reliable Courier Services</h2>
               <small class="text-muted">Published on October 25, 2025</small>
               <p>Looking for courier services near you? Discover fast, reliable, and affordable parcel delivery options with free pickup. Contact Khushbu Enterprises for local courier solutions.</p>
-              <a href="blog-courier-near-me.html" class="btn btn-primary btn-sm">Read More</a>
+              <a href="blog-courier-near-me.php" class="btn btn-primary btn-sm">Read More</a>
             </div>
           </article>
           <article class="blog-post row mb-2 shadow-lg p-3 mb-3 bg-white rounded">
@@ -132,7 +132,7 @@
               <h2>Best Courier Service in Delhi - Reliable Parcel Delivery</h2>
               <small class="text-muted">Published on November 08, 2025</small>
               <p>Looking for the best courier service in Delhi? Discover fast, reliable, and affordable parcel delivery options with free pickup. Contact Khushbu Enterprises for local courier solutions.</p>
-              <a href="best-courier-service-in-delhi.html" class="btn btn-primary btn-sm">Read More</a>
+              <a href="best-courier-service-in-delhi.php" class="btn btn-primary btn-sm">Read More</a>
             </div>
           </article>
          <div class="container mt-4">
@@ -145,7 +145,7 @@
             <h2>Use Courier Service in Kavi Nagar</h2>
             <small class="text-muted">Published on October 11, 2025</small>
             <p>Fast, Reliable & Affordable Parcel Delivery Service Near You</p>
-            <a href="courier-service-kavi-nagar.html" class="btn btn-primary btn-sm">Read More</a>
+            <a href="courier-service-kavi-nagar.php" class="btn btn-primary btn-sm">Read More</a>
           </div>
         </article>
                 <article class="blog-post row mb-2 shadow-lg p-3 mb-3 bg-white rounded">
@@ -157,7 +157,7 @@
             <h2>How to Send a Parcel via DTDC Courier</h2>
             <small class="text-muted">Published on October 08, 2025</small>
             <p>A Simple Step-by-Step Guide from DTDC Kavi Nagar, Ghaziabad.</p>
-            <a href="how-to-send-parcel-dtdc.html" class="btn btn-primary btn-sm">Read More</a>
+            <a href="how-to-send-parcel-dtdc.php" class="btn btn-primary btn-sm">Read More</a>
           </div>
         </article>
         <article class="blog-post row mb-2 shadow-lg p-3 mb-3 bg-white rounded">
@@ -170,7 +170,7 @@
             <small class="text-muted">Published on October 07, 2025</small>
             <p>Our courier services ensure your packages arrive safely and on time, thanks to our reliable operations
               and experienced team.</p>
-            <a href="blog-dtdc-kavi-nagar.html" class="btn btn-primary btn-sm">Read More</a>
+            <a href="blog-dtdc-kavi-nagar.php" class="btn btn-primary btn-sm">Read More</a>
           </div>
         </article>
         <article class="blog-post row mb-2 shadow-lg p-3 mb-3 bg-white rounded">
@@ -182,7 +182,7 @@
             <h2>Fast, Reliable, and Local: Khushbu Enterprises Courier Services in Kavi Nagar, Ghaziabad</h2>
             <small class="text-muted">Published on October 06, 2025</small>
             <p> Fast, Reliable, and Local: Khushbu Enterprises Courier Services in Kavi Nagar, Ghaziabad</p>
-            <a href="fast-relaible-local-services.html" class="btn btn-primary btn-sm">Read More</a>
+            <a href="fast-relaible-local-services.php" class="btn btn-primary btn-sm">Read More</a>
           </div>
         </article>
         <article class="blog-post row mb-2 shadow-lg p-3 mb-3 bg-white rounded">
@@ -269,8 +269,8 @@
           <div class="col-6 col-sm-4 col-lg-2 mb-3 order-2 order-sm-1">
             <h5 class="lh-lg fw-bold mb-4 text-light font-sans-serif">Other links </h5>
             <ul class="list-unstyled mb-md-4 mb-lg-0" id="otherLinks">
-              <li class="lh-lg"><a class="text-500" href="blogs.html">Blogs</a></li>
-              <li class="lh-lg"><a class="text-500" href="sitemap.html">Sitemap</a></li>
+              <li class="lh-lg"><a class="text-500" href="blogs.php">Blogs</a></li>
+              <li class="lh-lg"><a class="text-500" href="sitemap.php">Sitemap</a></li>
             </ul>
           </div>
           <div class="col-6 col-sm-4 col-lg-2 mb-3 order-3 order-sm-2">
@@ -282,9 +282,9 @@
           <div class="col-6 col-sm-4 col-lg-2 mb-3 order-3 order-sm-2">
             <h5 class="lh-lg fw-bold text-light mb-4 font-sans-serif"> Customer Care</h5>
             <ul class="list-unstyled mb-md-4 mb-lg-0" id="pagelinks">
-              <li class="lh-lg"><a class="text-500" href="blogs.html">Blogs</a></li>
-              <li class="lh-lg"><a class="text-500" href="about.html">About</a></li>
-              <li class="lh-lg"><a class="text-500" href="index.html#contactus">Contact</a></li>
+              <li class="lh-lg"><a class="text-500" href="blogs.php">Blogs</a></li>
+              <li class="lh-lg"><a class="text-500" href="about.php">About</a></li>
+              <li class="lh-lg"><a class="text-500" href="index.php#contactus">Contact</a></li>
             </ul>
           </div>
         </div>

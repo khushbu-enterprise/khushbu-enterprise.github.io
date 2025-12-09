@@ -1,13 +1,13 @@
 // Our links array
     var other = [
-      { name: 'Blogs', link: 'blogs.html' },
-      { name: 'Sitemap', link: 'sitemap.html' },
+      { name: 'Blogs', link: 'blogs.php' },
+      { name: 'Sitemap', link: 'sitemap.php' },
     ];
 
 var pagelinks = [
-      { name: 'Blogs', link: 'blogs.html' },
-      { name: 'About', link: 'about.html' },
-      { name: 'Contact', link: 'index.html#contactus' },
+      { name: 'Blogs', link: 'blogs.php' },
+      { name: 'About', link: 'about.php' },
+      { name: 'Contact', link: 'index.php#contactus' },
     ];
 
     // Reusable function

@@ -131,7 +131,7 @@
             <h1 class="fw-normal fs-6 fs-xxl-7">A trusted provider of <br> <b>courier services in Kavinagar.</b></h1>
             <!-- <h1 class="fw-bolder fs-6 fs-xxl-7 mb-2"></h1> -->
             <p class="fs-1 mb-5">We deliver your products safely to <br />your home in a reasonable time. </p><a
-              class="btn btn-primary me-2" href="about.html" role="button">Get started<i
+              class="btn btn-primary me-2" href="about.php" role="button">Get started<i
                 class="fas fa-arrow-right ms-2"></i></a>
           </div>
         </div>
@@ -723,8 +723,8 @@
           <div class="col-6 col-sm-4 col-lg-2 mb-3 order-2 order-sm-1">
             <h5 class="lh-lg fw-bold mb-4 text-light font-sans-serif">Other links </h5>
             <ul class="list-unstyled mb-md-4 mb-lg-0" id="otherLinks">
-              <li class="lh-lg"><a class="text-500" href="blogs.html">Blogs</a></li>
-              <li class="lh-lg"><a class="text-500" href="sitemap.html">Sitemap</a></li>
+              <li class="lh-lg"><a class="text-500" href="blogs.php">Blogs</a></li>
+              <li class="lh-lg"><a class="text-500" href="sitemap.php">Sitemap</a></li>
             </ul>
           </div>
           <div class="col-6 col-sm-4 col-lg-2 mb-3 order-3 order-sm-2">
@@ -736,9 +736,9 @@
           <div class="col-6 col-sm-4 col-lg-2 mb-3 order-3 order-sm-2">
             <h5 class="lh-lg fw-bold text-light mb-4 font-sans-serif"> Customer Care</h5>
             <ul class="list-unstyled mb-md-4 mb-lg-0" id="pagelinks">
-              <li class="lh-lg"><a class="text-500" href="blogs.html">Blogs</a></li>
-              <li class="lh-lg"><a class="text-500" href="about.html">About</a></li>
-              <li class="lh-lg"><a class="text-500" href="index.html#contactus">Contact</a></li>
+              <li class="lh-lg"><a class="text-500" href="blogs.php">Blogs</a></li>
+              <li class="lh-lg"><a class="text-500" href="about.php">About</a></li>
+              <li class="lh-lg"><a class="text-500" href="index.php#contactus">Contact</a></li>
             </ul>
           </div>
         </div>

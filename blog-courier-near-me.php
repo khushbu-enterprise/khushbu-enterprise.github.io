@@ -72,7 +72,7 @@
     "dateModified": "2025-10-07",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://khushbuenterprises.in/blog-courier-near-me.html"
+      "@id": "https://khushbuenterprises.in/blog-courier-near-me.php"
     },
     "image": "https://khushbuenterprises.in/assets/img/about.webp",
     "description": "Looking for courier services near you? Discover fast, reliable, and affordable parcel delivery options with free pickup. Contact Khushbu Enterprises for local courier solutions."
@@ -95,10 +95,10 @@
                     </span></button>
                 <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto pt-2 pt-lg-0 font-base">
-                        <li class="nav-item px-2"><a class="nav-link" href="index.html#services">Our Services</a></li>
-                        <li class="nav-item px-2"><a class="nav-link" href="index.html#findUs">Find Us</a></li>
-                        <li class="nav-item px-2"><a class="nav-link" href="index.html#clients">Clients Reviews</a></li>
-                        <li class="nav-item px-2"><a class="nav-link" href="index.html#contactus">Contact Us</a></li>
+                        <li class="nav-item px-2"><a class="nav-link" href="index.php#services">Our Services</a></li>
+                        <li class="nav-item px-2"><a class="nav-link" href="index.php#findUs">Find Us</a></li>
+                        <li class="nav-item px-2"><a class="nav-link" href="index.php#clients">Clients Reviews</a></li>
+                        <li class="nav-item px-2"><a class="nav-link" href="index.php#contactus">Contact Us</a></li>
                         <li class="nav-item px-2"><a class="nav-link" aria-current="page"
                                 href="https://www.dtdc.com/track-your-shipment/" target="_blank">Track Order</a></li>
                     </ul>
@@ -127,7 +127,7 @@
                     <div class="col-md-75 col-xl-6 col-xxl-5 text-md-start text-center py-8">
                         <h1 class="fw-normal fs-6 fs-xxl-7">Courier Near Me - Reliable Parcel Delivery Services</h1>
                         <p class="fs-1 mb-5">Fast, Reliable & Affordable Courier Services Near You</p><a
-                            class="btn btn-primary me-2" href="blogs.html" role="button">Get started<i
+                            class="btn btn-primary me-2" href="blogs.php" role="button">Get started<i
                                 class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -206,8 +206,8 @@
                     <div class="col-6 col-sm-4 col-lg-2 mb-3 order-2 order-sm-1">
                         <h5 class="lh-lg fw-bold mb-4 text-light font-sans-serif">Other links </h5>
                         <ul class="list-unstyled mb-md-4 mb-lg-0" id="otherLinks">
-                          <li class="lh-lg"><a class="text-500" href="blogs.html">Blogs</a></li>
-                          <li class="lh-lg"><a class="text-500" href="sitemap.html">Sitemap</a></li>
+                          <li class="lh-lg"><a class="text-500" href="blogs.php">Blogs</a></li>
+                          <li class="lh-lg"><a class="text-500" href="sitemap.php">Sitemap</a></li>
                         </ul>
                     </div>
                     <div class="col-6 col-sm-4 col-lg-2 mb-3 order-3 order-sm-2">
@@ -219,9 +219,9 @@
                     <div class="col-6 col-sm-4 col-lg-2 mb-3 order-3 order-sm-2">
                         <h5 class="lh-lg fw-bold text-light mb-4 font-sans-serif"> Customer Care</h5>
                         <ul class="list-unstyled mb-md-4 mb-lg-0" id="pagelinks">
-                          <li class="lh-lg"><a class="text-500" href="blogs.html">Blogs</a></li>
-                          <li class="lh-lg"><a class="text-500" href="about.html">About</a></li>
-                          <li class="lh-lg"><a class="text-500" href="index.html#contactus">Contact</a></li>
+                          <li class="lh-lg"><a class="text-500" href="blogs.php">Blogs</a></li>
+                          <li class="lh-lg"><a class="text-500" href="about.php">About</a></li>
+                          <li class="lh-lg"><a class="text-500" href="index.php#contactus">Contact</a></li>
                         </ul>
                     </div>
                 </div>
