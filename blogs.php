@@ -338,7 +338,7 @@
   </main>
    <script src="vendors/@popperjs/popper.min.js"></script>
    <script src="vendors/bootstrap/bootstrap.min.js"></script>
-   <script src="vendors/fontawesome/all.min.js"></script>
+   <!-- <script src="vendors/fontawesome/all.min.js"></script> -->
   <script src="assets/js/theme.js"></script>
   <script src="assets/js/common.js"></script>
   <script>

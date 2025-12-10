@@ -119,7 +119,7 @@
     </nav>
     <section class="py-xxl-10 pb-0" id="home">
       <div class="bg-holder bg-size"
-        style="background-image:url(assets/img/gallery/hero-header-bg.webp);background-position:top center;background-size:cover;">
+        style="background-image:url();background-position:top center;background-size:cover;">
       </div>
       <div class="container">
         <div class="row align-items-center">
@@ -785,7 +785,7 @@
   </main>
    <script src="vendors/@popperjs/popper.min.js"></script>
    <script src="vendors/bootstrap/bootstrap.min.js"></script>
-   <script src="vendors/fontawesome/all.min.js"></script>
+   <!-- <script src="vendors/fontawesome/all.min.js"></script> -->
   <script src="assets/js/theme.js"></script>
   <script src="assets/js/common.js"></script>
   <script>
