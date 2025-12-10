@@ -56,11 +56,7 @@ var hexToRgb = function hexToRgb(hexValue) {
   return result ? [parseInt(result[1], 16), parseInt(result[2], 16), parseInt(result[3], 16)] : null;
 };
 
-var rgbaColor = function rgbaColor() {
-  var color = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : '#fff';
-  var alpha = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 0.5;
-  return "rgba(".concat(hexToRgb(color), ", ").concat(alpha, ")");
-};
+
 /* --------------------------------- Colors --------------------------------- */
 
 
@@ -152,16 +148,7 @@ var getBreakpoint = function getBreakpoint(el) {
 /* --------------------------------- Cookie --------------------------------- */
 
 
-var setCookie = function setCookie(name, value, expire) {
-  var expires = new Date();
-  expires.setTime(expires.getTime() + expire);
-  document.cookie = "".concat(name, "=").concat(value, ";expires=").concat(expires.toUTCString());
-};
 
-var getCookie = function getCookie(name) {
-  var keyValue = document.cookie.match("(^|;) ?".concat(name, "=([^;]*)(;|$)"));
-  return keyValue ? keyValue[2] : keyValue;
-};
 
 var settings = {
   tinymce: {
@@ -173,32 +160,11 @@ var settings = {
 };
 /* -------------------------- Chart Initialization -------------------------- */
 
-var newChart = function newChart(chart, config) {
-  var ctx = chart.getContext('2d');
-  return new window.Chart(ctx, config);
-};
+
 /* ---------------------------------- Store --------------------------------- */
 
 
-var getItemFromStore = function getItemFromStore(key, defaultValue) {
-  var store = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : localStorage;
 
-  try {
-    return JSON.parse(store.getItem(key)) || defaultValue;
-  } catch (_unused) {
-    return store.getItem(key) || defaultValue;
-  }
-};
-
-var setItemToStore = function setItemToStore(key, payload) {
-  var store = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : localStorage;
-  return store.setItem(key, payload);
-};
-
-var getStoreSpace = function getStoreSpace() {
-  var store = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : localStorage;
-  return parseFloat((escape(encodeURIComponent(JSON.stringify(store))).length / (1024 * 1024)).toFixed(2));
-};
 
 var utils = {
   docReady: docReady,
@@ -209,19 +175,12 @@ var utils = {
   hasClass: hasClass,
   addClass: addClass,
   hexToRgb: hexToRgb,
-  rgbaColor: rgbaColor,
   colors: colors,
   grays: grays,
   getOffset: getOffset,
   isScrolledIntoView: isScrolledIntoView,
   getBreakpoint: getBreakpoint,
-  setCookie: setCookie,
-  getCookie: getCookie,
-  newChart: newChart,
-  settings: settings,
-  getItemFromStore: getItemFromStore,
-  setItemToStore: setItemToStore,
-  getStoreSpace: getStoreSpace
+  settings: settings
 };
 /* -------------------------------------------------------------------------- */
 

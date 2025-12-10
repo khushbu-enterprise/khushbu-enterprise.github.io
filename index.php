@@ -17,9 +17,8 @@
   <link rel="icon" type="image/png" sizes="64x64" href="assets/img/favicons/logo-64.png">
   <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/logo-192.png">
 
-  <link rel="apple-touch-icon" href="assets/img/favicons/delivery-truck-32.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicons/logo-152.png">
-  <link rel="apple-touch-icon" sizes="167x167" href="assets/img/favicons/logo-167.png">
+   <link rel="apple-touch-icon" href="assets/img/favicons/delivery-truck-32.png">
+   <link rel="apple-touch-icon" sizes="167x167" href="assets/img/favicons/logo-167.png">
   <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/logo-180.png">
   
   <link rel="shortcut icon" type="image/x-icon" href="assets/img/dtdc-logo.png">
@@ -784,10 +783,9 @@
       <!-- <a href="javascript:;" data-toggle="modal" data-target="#enquiryModal"><i class="fa fa-envelope"></i></a> -->
     </div>
   </main>
-  <script src="vendors/@popperjs/popper.min.js"></script>
-  <script src="vendors/bootstrap/bootstrap.min.js"></script>
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
-  <script src="vendors/fontawesome/all.min.js"></script>
+   <script src="vendors/@popperjs/popper.min.js"></script>
+   <script src="vendors/bootstrap/bootstrap.min.js"></script>
+   <script src="vendors/fontawesome/all.min.js"></script>
   <script src="assets/js/theme.js"></script>
   <script src="assets/js/common.js"></script>
   <script>
