@@ -11,19 +11,19 @@
   <meta name="keywords" content="DTDC courier Ghaziabad free pickup, courier service Kavinagar, free parcel pickup Ghaziabad, international courier with pickup Ghaziabad, Best courier service in Kavinagar">
   <meta name="google-site-verification" content="LcLDPpScPgJQseEHZrakYqhC_iQcJ8Izkam4RfdzPqo" />
 
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/logo-16.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/logo-32.png">
-  <link rel="icon" type="image/png" sizes="48x48" href="assets/img/favicons/logo-48.png">
-  <link rel="icon" type="image/png" sizes="64x64" href="assets/img/favicons/logo-64.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/logo-192.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/logo-16.webp">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/logo-32.webp">
+  <link rel="icon" type="image/png" sizes="48x48" href="assets/img/favicons/logo-48.webp">
+  <link rel="icon" type="image/png" sizes="64x64" href="assets/img/favicons/logo-64.webp">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/logo-192.webp">
 
-   <link rel="apple-touch-icon" href="assets/img/favicons/delivery-truck-32.png">
-   <link rel="apple-touch-icon" sizes="167x167" href="assets/img/favicons/logo-167.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/logo-180.png">
+   <link rel="apple-touch-icon" href="assets/img/favicons/delivery-truck-32.webp">
+   <link rel="apple-touch-icon" sizes="167x167" href="assets/img/favicons/logo-167.webp">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/logo-180.webp">
   
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/dtdc-logo.png">
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/dtdc-logo.webp">
   <link rel="manifest" href="assets/img/favicons/manifest.json">
-  <meta name="msapplication-TileImage" content="assets/img/dtdc-logo.png">
+  <meta name="msapplication-TileImage" content="assets/img/dtdc-logo.webp">
    <meta name="theme-color" content="#ffffff">
    <link rel="canonical" href="https://khushbuenterprises.in/">
    <meta name="robots" content="index, follow"/>
@@ -32,13 +32,13 @@
    <meta property="og:url" content="https://khushbuenterprises.in/">
    <meta property="og:title" content="DTDC Courier Ghaziabad | Free Pickup | Domestic & International | Courier service in kavi nagar">
    <meta property="og:description" content="DTDC Courier Franchise in Kavinagar D-Block, Ghaziabad. Free pickup service for parcels, fast domestic & international courier, reliable & secure.">
-   <meta property="og:image" content="https://khushbuenterprises.in/assets/img/dtdc-logo.png">
+   <meta property="og:image" content="https://khushbuenterprises.in/assets/img/dtdc-logo.webp">
    <!-- Twitter -->
    <meta property="twitter:card" content="summary_large_image">
    <meta property="twitter:url" content="https://khushbuenterprises.in/">
    <meta property="twitter:title" content="DTDC Courier Ghaziabad | Free Pickup | Domestic & International | Courier service in kavi nagar">
    <meta property="twitter:description" content="DTDC Courier Franchise in Kavinagar D-Block, Ghaziabad. Free pickup service for parcels, fast domestic & international courier, reliable & secure.">
-   <meta property="twitter:image" content="https://khushbuenterprises.in/assets/img/dtdc-logo.png">
+   <meta property="twitter:image" content="https://khushbuenterprises.in/assets/img/dtdc-logo.webp">
    <link href="assets/css/theme.css" rel="stylesheet" />
   <link href="assets/css/styles.css" rel="stylesheet" />
 
@@ -60,7 +60,7 @@
      "@context": "https://schema.org",
      "@type": "LocalBusiness",
      "name": "Khushbu Enterprises - DTDC Courier",
-     "image": "https://khushbuenterprises.in/assets/img/dtdc-logo.png",
+     "image": "https://khushbuenterprises.in/assets/img/dtdc-logo.webp",
      "description": "DTDC Courier Franchise in Kavinagar D-Block, Ghaziabad. Free pickup service for parcels, fast domestic & international courier, reliable & secure.",
      "address": {
        "@type": "PostalAddress",
@@ -90,7 +90,7 @@
     <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 d-block"
       data-navbar-on-scroll="data-navbar-on-scroll">
       <div class="container"><a class="navbar-brand" href="https://khushbuenterprises.in/"><img
-            src="assets/img/dtdc-logo.png" height="45" alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
+            src="assets/img/dtdc-logo.webp" height="45" alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
             title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" /></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span
@@ -241,7 +241,7 @@
       <div class="container">
         <div class="row">
           <div class="col-6 col-lg mb-5">
-            <div class="text-center"><img src="assets/img/icons/awards.png"
+            <div class="text-center"><img src="assets/img/icons/awards.webp"
                 alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                 title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
               <h2 class="text-primary mt-4">26+</h2>
@@ -249,7 +249,7 @@
             </div>
           </div>
           <div class="col-6 col-lg mb-5">
-            <div class="text-center"><img src="assets/img/icons/states.png"
+            <div class="text-center"><img src="assets/img/icons/states.webp"
                 alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                 title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
               <h2 class="text-primary mt-4">65+</h2>
@@ -257,7 +257,7 @@
             </div>
           </div>
           <div class="col-6 col-lg mb-5">
-            <div class="text-center"><img src="assets/img/icons/clients.png"
+            <div class="text-center"><img src="assets/img/icons/clients.webp"
                 alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                 title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
               <h2 class="text-primary mt-4">689K+</h2>
@@ -265,7 +265,7 @@
             </div>
           </div>
           <div class="col-6 col-lg mb-5">
-            <div class="text-center"><img src="assets/img/icons/goods.png"
+            <div class="text-center"><img src="assets/img/icons/goods.webp"
                 alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                 title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
               <h2 class="text-primary mt-4">130M+</h2>
@@ -273,7 +273,7 @@
             </div>
           </div>
           <div class="col-6 col-lg mb-5">
-            <div class="text-center"><img src="assets/img/icons/business.png"
+            <div class="text-center"><img src="assets/img/icons/business.webp"
                 alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                 title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
               <h2 class="text-primary mt-4">130M+</h2>
@@ -291,7 +291,7 @@
             <div class="card bg-dark text-white py-4 py-sm-0"><img class="w-100" src="assets/img/gallery/video.webp"
                 alt="video" />
               <div class="card-img-overlay bg-dark-gradient d-flex flex-column flex-center"><img
-                  src="assets/img/icons/play.png" width="80" alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
+                  src="assets/img/icons/play.webp" width="80" alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                   title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
                 <h5 class="text-primary">FASTEST DELIVERY</h5>
                 <p class="text-center">You can get your valuable item in the fastest period of<br
@@ -359,7 +359,7 @@
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i>
                         </div>
-                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.png"
+                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.webp"
                             alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                             title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
                           <div class="flex-1 ms-3">
@@ -383,7 +383,7 @@
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i>
                         </div>
-                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.png"
+                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.webp"
                             alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                             title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
                           <div class="flex-1 ms-3">
@@ -407,7 +407,7 @@
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i>
                         </div>
-                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.png"
+                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.webp"
                             alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                             title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
                           <div class="flex-1 ms-3">
@@ -434,7 +434,7 @@
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i>
                         </div>
-                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.png"
+                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.webp"
                             alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                             title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
                           <div class="flex-1 ms-3">
@@ -457,7 +457,7 @@
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i>
                         </div>
-                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.png"
+                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.webp"
                             alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                             title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
                           <div class="flex-1 ms-3">
@@ -481,7 +481,7 @@
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i>
                         </div>
-                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.png"
+                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.webp"
                             alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                             title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
                           <div class="flex-1 ms-3">
@@ -508,7 +508,7 @@
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i>
                         </div>
-                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.png"
+                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.webp"
                             alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                             title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
                           <div class="flex-1 ms-3">
@@ -534,7 +534,7 @@
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i>
                         </div>
-                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.png"
+                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.webp"
                             alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                             title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
                           <div class="flex-1 ms-3">
@@ -560,7 +560,7 @@
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i><i
                             class="fas fa-star text-primary me-1"></i><i class="fas fa-star text-primary me-1"></i>
                         </div>
-                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.png"
+                        <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/icons/avatar.webp"
                             alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                             title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" />
                           <div class="flex-1 ms-3">
@@ -715,7 +715,7 @@
       <div class="container">
         <div class="row">
           <div class="col-12 col-sm-12 col-lg-6 mb-4 order-0 order-sm-0"><a class="text-decoration-none" href="#"><img
-                src="assets/img/dtdc-logo.png" height="51" alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
+                src="assets/img/dtdc-logo.webp" height="51" alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                 title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" /></a>
             <p class="text-500 my-4">The most trusted Courier<br />company in your area.</p>
           </div>

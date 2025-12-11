@@ -8,12 +8,12 @@
   <title>Fast Reliable Local Courier Services in Kavi Nagar Ghaziabad - Khushbu Enterprises</title>
   <meta name="description" content="Experience fast, reliable, and local courier services in Kavi Nagar, Ghaziabad with Khushbu Enterprises. Door-to-door delivery, real-time tracking, and affordable rates.">
   <meta name="keywords" content="local courier services Ghaziabad, fast delivery Kavi Nagar, reliable parcel service Ghaziabad, Khushbu Enterprises courier">
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/delivery-truck.png">
-  <link rel="icon" type="image/png" sizes="64x64" href="assets/img/favicons/delivery-truck.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/delivery-truck-32.png">
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/dtdc-logo.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/delivery-truck.webp">
+  <link rel="icon" type="image/png" sizes="64x64" href="assets/img/favicons/delivery-truck.webp">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/delivery-truck-32.webp">
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/dtdc-logo.webp">
   <link rel="manifest" href="assets/img/favicons/manifest.json">
-  <meta name="msapplication-TileImage" content="assets/img/dtdc-logo.png">
+  <meta name="msapplication-TileImage" content="assets/img/dtdc-logo.webp">
   <meta name="theme-color" content="#ffffff">
   <link href="assets/css/theme.css" rel="stylesheet" />
   <link href="assets/css/styles.css" rel="stylesheet" />
@@ -78,7 +78,7 @@
     <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 d-block"
       data-navbar-on-scroll="data-navbar-on-scroll">
       <div class="container"><a class="navbar-brand" href="https://khushbuenterprises.in/"><img
-            src="assets/img/dtdc-logo.png" height="45" alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
+            src="assets/img/dtdc-logo.webp" height="45" alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
             title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" /></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span
@@ -183,7 +183,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-12 col-lg-6 mb-4 order-0 order-sm-0"><a class="text-decoration-none"
-                            href="#"><img src="assets/img/dtdc-logo.png" height="51"
+                            href="#"><img src="assets/img/dtdc-logo.webp" height="51"
                                 alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                                 title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" /></a>
                         <p class="text-500 my-4">The most trusted Courier<br />company in your area.</p>

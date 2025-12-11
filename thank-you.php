@@ -55,7 +55,7 @@
 <body>
 	<div class="thankyouContainer vw-100 vh-100">
 		<div class="thankyouBox shadow-lg">
-			<img src="assets/img/email.png" class="img-fluid" alt="Thank you" />
+			<img src="assets/img/email.webp" class="img-fluid" alt="Thank you" />
 			<h1>Thank You</h1>
 			<h4>Thank you for reaching out. <br />
 				Our team will get in touch with you soon.</h5>

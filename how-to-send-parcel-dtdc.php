@@ -10,12 +10,12 @@
         content="Learn how to send parcels easily with DTDC Courier in Kavi Nagar, Ghaziabad. Step-by-step guide for packing, pickup, tracking, and delivery options.">
     <meta name="keywords"
         content="how to send parcel DTDC, DTDC courier Ghaziabad, parcel shipping guide Kavi Nagar, send courier Ghaziabad, DTDC tracking, Khushbu Enterprises">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/delivery-truck.png">
-    <link rel="icon" type="image/png" sizes="64x64" href="assets/img/favicons/delivery-truck.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/delivery-truck-32.png">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/dtdc-logo.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/delivery-truck.webp">
+    <link rel="icon" type="image/png" sizes="64x64" href="assets/img/favicons/delivery-truck.webp">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/delivery-truck-32.webp">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/dtdc-logo.webp">
     <link rel="manifest" href="assets/img/favicons/manifest.json">
-    <meta name="msapplication-TileImage" content="assets/img/dtdc-logo.png">
+    <meta name="msapplication-TileImage" content="assets/img/dtdc-logo.webp">
     <meta name="theme-color" content="#ffffff">
     <meta name="robots" content="index, follow">
     <link href="assets/css/theme.css" rel="stylesheet" />
@@ -133,7 +133,7 @@
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 d-block"
             data-navbar-on-scroll="data-navbar-on-scroll">
             <div class="container"><a class="navbar-brand" href="https://khushbuenterprises.in/"><img
-                        src="assets/img/dtdc-logo.png" height="45"
+                        src="assets/img/dtdc-logo.webp" height="45"
                         alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                         title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" /></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -258,7 +258,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-12 col-lg-6 mb-4 order-0 order-sm-0"><a class="text-decoration-none"
-                            href="#"><img src="assets/img/dtdc-logo.png" height="51"
+                            href="#"><img src="assets/img/dtdc-logo.webp" height="51"
                                 alt="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad"
                                 title="DTDC Courier Franchise in Kavinagar D-Block Ghaziabad" /></a>
                         <p class="text-500 my-4">The most trusted Courier<br />company in your area.</p>
